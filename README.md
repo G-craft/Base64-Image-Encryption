@@ -1,4 +1,4 @@
-# Base64 Image Transformer and Decoder
+# Base64 Image Encryption
 
 ## Overview
 
